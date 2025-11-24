@@ -9,14 +9,10 @@ Recommended Deployment: Run the program on devices with high-quality network car
 
 # Application Scenarios
 
-你是否经常遇到这样的场景：同事突然说“某某系统登录不上了”,“某某网络打印机连不上了”，作为企业IT管理人员，是否还在一头雾水地想：“这个设备IP是多少来？它在哪个位置？是宕机了吗？
-
-随着企业业务发展，各类网络应用服务越来越多：大至ERP、PDM、数据库服务器，小到文件服务器和网络打印机。这些设备物理位置分散，有的在机房，有的在部门角落，有的在某个远程办公地点。时间一长，难免记不清细节。等到用户投诉才发现问题，IT管理工作就陷入了“被动”应对的困境。
-
-如何变“被动”为“主动”？结合工作实际，原创推出了这个：星火智运维自动巡检软件，该工具胜在：简单、小巧，高效通知到位！！
-
 Do you often encounter situations where colleagues suddenly report, "XX system cannot be logged into," or "XX network printer cannot be connected"? As an IT manager, do you find yourself confused, thinking: "What is the IP address of this device? Where is it located? Is it down?"
+
 As business grows, the number of network applications and services increases—ranging from large-scale ERP, PDM, and database servers to smaller file servers and network printers. These devices are physically dispersed: some in server rooms, some in department corners, and others in remote offices. Over time, it becomes difficult to remember every detail. By the time users complain, IT management is already trapped in a cycle of reactive troubleshooting.
+
 How can we shift from reactive to proactive? Based on practical experience, we have developed the Spark Intelligent O&M Auto Inspection Program. This tool excels in being simple, compact, and highly efficient in notification!
 
 # What Can This Tool Do?？
