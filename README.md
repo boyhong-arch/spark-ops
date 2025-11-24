@@ -1,6 +1,6 @@
 # 星火智运维自动巡检程序
-软件类型：免费软件
-软件语言：简体中文
+Language: Simplified Chinese
+
 Operating Environment: Windows 7 and above
 
 Alternative Cloud Download Link:  https://pan.baidu.com/s/1mcc-WZ3O-5aIM74ojzfEiw?pwd=zgzg Code: zgzg
