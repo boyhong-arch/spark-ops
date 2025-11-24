@@ -21,7 +21,7 @@ How can we shift from reactive to proactive? Based on practical experience, we h
 
 # What Can This Tool Do?？
 
-这款工具虽小，小到只有一个托盘菜单：
+Though small—with only a system tray menu：
 
 ![menu](https://github.com/user-attachments/assets/bd6e4b88-14a1-414e-bb4e-c69a14016f7c)
 
